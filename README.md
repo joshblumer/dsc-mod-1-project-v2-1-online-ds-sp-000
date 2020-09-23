@@ -10,7 +10,8 @@ Film Industry Data Analysis
 * The Jupyter Notebook "student.ipynb" found in this repo was created using Python 3.7.6
 
 
-* Necessary libraries to reproduce and run this project are:
+### Necessary libraries to reproduce and run this project are:
+
  * Pandas
  * NumPy
  * MatPlotLib
