@@ -64,5 +64,9 @@ After exploring and analyzing the given data sets I chose to focus on an approac
 
 #### Buena Vista, a subsidiary of Disney, total grosses more than double the next entry, Warner Brothers, but only grosses slightly more than the next few entries per film. Finding the top performing studios is a valuable insight for choosing who to collaborate with, where to look when acquiring talent, and whose films to further analyze.
 
+## Conclusion
+
+My aggregate finding and recommendation after filtering and comparing several variables through top performing films gross, profit, and profit quotient is that films in the drama, adventure, and  especially horror genres that are rated R and released towards the end of the summer will sustain a profit quotient 25%+ higher than films of other genres and ratings released at other times throughout the calendar year. This translates to a much higher return on investment which will position the production company to use their increased profits to fund the production of additional films. 
+
 
 
