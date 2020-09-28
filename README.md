@@ -7,7 +7,10 @@ Film Industry Data Analysis
    * An exploratory data analysis of the film industry through databases provided by The Flatiron School and found at [kaggle.com](https://www.kaggle.com). My goal in this analysis is to extract meaningful insights from the data and manipulate them into actionable recommendations using statistical methods and visualizations.
 
 ## Technologies
-* The Jupyter Notebook "student.ipynb" found in this repo was created using Python 3.7.6
+
+* The Jupyter Notebook "student.ipynb" found in this repo contains the data analysis and visualizations used in this project and was created using Python 3.7.6
+
+* There is a powerpoint presentation for non-technical audiences available under the file name "presentation.pdf"
 
 
 ### Necessary libraries to reproduce and run this project are:
